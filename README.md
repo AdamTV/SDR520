@@ -4,3 +4,5 @@ Software Design for Robotics Applications
 [![Watch the video](https://img.youtube.com/vi/ygapoul-FEc/hqdefault.jpg)](https://youtu.be/ygapoul-FEc)
 # Lab 2
 [![Watch the video](https://img.youtube.com/vi/ZDPJ1BM14SM/hqdefault.jpg)](https://youtu.be/ZDPJ1BM14SM)
+# Lab 3
+[![Watch the video](https://img.youtube.com/vi/ptrDi12zxWQ/hqdefault.jpg)](https://youtu.be/ptrDi12zxWQ)
